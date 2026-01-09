@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-.div1{
+.container{
 	display:flex;
 	align-items:center;
 	border-radius:20px
