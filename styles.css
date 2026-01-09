@@ -2,7 +2,7 @@
 .container{
 	display:flex;
 	align-items:center;
-	border-radius:20px
+	border-radius:20px;
 	background-color:lightgray;
 }
 #div1{
