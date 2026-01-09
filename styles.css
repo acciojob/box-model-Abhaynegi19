@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+.div1{
+	display:flex;
+	align-items:center;
+	border-radius:20px
+	background-color:lightgray;
+}
+#div1{
+	border-radius:100%;
+	background-color:green;
+}
+#div2{
+	border-radius:100%;
+	background-color:yellow;
+}
+#div3{
+	border-radius:100%;
+	background-color:red;
+}
